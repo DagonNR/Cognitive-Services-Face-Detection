@@ -14,7 +14,7 @@ En este repositorio tenemos una demostración del uso de Azure Cognitive Service
 ---
 
 ## Importante
-- "Azure Cognitive Services", se puede crear desde [Microsoft Azure](https://portal.azure.com) o [Estudio de Microsoft Azure Machine Learning](https://ml.azure.com/home).
+- 
 
 ---
 
