@@ -1,5 +1,5 @@
-# Uso de Azure Machine Learning para detectar rostros
-En este repositorio tenemos una demostración del uso de Azure Machine Learning.
+# Uso de Azure Cognitive Services para detectar rostros
+En este repositorio tenemos una demostración del uso de Azure Cognitive Services.
 
 ![Microsoft-Azure-Machine-Learning](images\Microsoft-Azure-Machine-Learning.jpg)
 
@@ -14,7 +14,7 @@ En este repositorio tenemos una demostración del uso de Azure Machine Learning.
 ---
 
 ## Importante
-- "Azure Machine Learning", se puede crear desde [Microsoft Azure](https://portal.azure.com) o [Estudio de Microsoft Azure Machine Learning](https://ml.azure.com/home).
+- "Azure Cognitive Services", se puede crear desde [Microsoft Azure](https://portal.azure.com) o [Estudio de Microsoft Azure Machine Learning](https://ml.azure.com/home).
 
 ---
 
