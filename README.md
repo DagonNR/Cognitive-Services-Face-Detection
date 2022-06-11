@@ -1,5 +1,5 @@
 # Uso de Azure Cognitive Services para detectar rostros
-En este repositorio tenemos una demostración del uso de Azure Cognitive Services, pare detectar rostros y conocer, su género, edad, y si usan lentes.
+En este repositorio tenemos una demostración del uso de Azure Cognitive Services, pare detectar rostros y conocer, su género, edad, si usan lentes y que emoción tiene.
 
 ![Microsoft-Azure-Machine-Learning](https://github.com/DagonNR/Cognitive-Services-Face-Detection/blob/main/images/Microsoft-Azure-Machine-Learning.jpg)
 
